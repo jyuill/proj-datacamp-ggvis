@@ -38,3 +38,4 @@ iris %>%
 
 ## 
 faithful %>% ggvis(~waiting,~eruptions) %>% layer_points()
+
